@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Activity Architecture.md",
+                "file": "Azure/Compute and Serverless and Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activity Architecture"
+              "title": "Compute and Serverless and Storage"
             }
           }
         ]
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,8 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24caac977d3d3b22",
+  "active": "a00816e19f1f4b38",
   "lastOpenFiles": [
+    "Azure/Hybrid Cloud.md",
+    "Azure/Compute and Serverless and Storage.md",
+    "Untitled.md",
+    "Azure/Cloud Deployment Model.md",
+    "Azure/Public Cloud.md",
+    "Azure/Private Cloud.md",
+    "Azure/Basics.md",
+    "Algorithms/Topics/Binary Search.md",
+    "System Design/Characteristics/Availability.md",
+    "Android/Activity Architecture.md",
     "Algorithms/Contents.md",
     "Algorithms/Topics/Topological Sort.md",
     "Algorithms/Topics/Rotate an Array.md",
@@ -192,21 +202,11 @@
     "Algorithms/Topics/Kadane's Algorithm.md",
     "Algorithms/Topics/Dynamic Programming.md",
     "Algorithms/Topics/Dijkstra.md",
-    "Algorithms/Topics/Binary Search.md",
     "Algorithms/Topics/Bubble Sort.md",
     "Java/Threading.md",
-    "Untitled.md",
     "Azure",
     "Data Structures/Graphs/Graph Representations.md",
     "Data Structures/Graphs/Adjacency List.md",
-    "Maths/Sets.md",
-    "Maths/n-choose-k.md",
-    "Maths/DeMorgan's Law.md",
-    "Java/General Java Questions.md",
-    "System Design/Mobile/Mobile System Design.md",
-    "System Design/Contents.md",
-    "Algorithmic Complexity and Big O Notation.md",
-    "Common Strategies.md",
-    "Intro.md"
+    "Maths/Sets.md"
   ]
 }
