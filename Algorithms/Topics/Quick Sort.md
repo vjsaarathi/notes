@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Quick Sort
 ## Complexity
 |  | Best | Worst |

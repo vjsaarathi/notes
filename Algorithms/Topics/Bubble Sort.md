@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Bubble Sort
 
 ### Explanation

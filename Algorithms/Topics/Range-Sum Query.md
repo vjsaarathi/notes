@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+  - arrays
+---
+
 # Range-Sum Query
 
 Given a 2D matrix `matrix`, handle multiple queries of the following type:

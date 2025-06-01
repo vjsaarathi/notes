@@ -1,3 +1,10 @@
+---
+tags:
+  - algorithm
+  - arrays
+---
+
+
 # Topological Sort
 
 Works only on Directed Acyclic Graphs.

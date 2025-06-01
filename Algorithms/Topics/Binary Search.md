@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Binary Search
 
 ### Explanation

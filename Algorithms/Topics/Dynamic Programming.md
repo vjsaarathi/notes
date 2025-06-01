@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+---
+
+
 # Dynamic Programming
 
 ### A Framework to Solve

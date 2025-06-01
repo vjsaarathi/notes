@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+---
+
+
 # Dijkstra's Algorithm
 
 Given a graph of a road network, where the weights of each edge represent the difficulty of traversing the road (smaller is better and represents a faster road), Dijkstra's algorithm basically starts by inspecting the fastest roads first. It does this using a priority queue.

@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+  - arrays
+---
+
 # Rotate an Array
 
 Rotating an array by 90$^{\circ}$ is a common question which has a bit of a trick to it.

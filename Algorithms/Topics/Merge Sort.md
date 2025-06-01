@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Merge Sort
 ## Complexity
 |  | Best | Worst |

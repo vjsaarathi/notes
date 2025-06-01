@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Knapsack Problem
 ## Problem
 You're given an array of arrays, where each array represents an item. The first value in that array is the value, the second is the weight.

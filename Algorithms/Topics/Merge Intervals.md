@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Merge Intervals
 - Sort the inputs by the first value - $O(n \cdot log \cdot n)$
 - Check if the start of the current meeting (for instance) is greater than the end of the previous one

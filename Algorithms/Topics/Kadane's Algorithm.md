@@ -1,3 +1,8 @@
+---
+tags:
+  - algorithm
+---
+
 # Kadane's Algorithm
 Find the largest sum of any contiguous subarray.
 
