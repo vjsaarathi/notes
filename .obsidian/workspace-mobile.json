@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55267975f0f2de2c",
+        "id": "0c0ca443eba10fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec4d8b523d00e43",
+            "id": "1a36430ad84208d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Systems/Distributed Systems & HDFS - Complete Study Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Systems & HDFS - Complete Study Notes"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Distributed Systems/Distributed Systems & HDFS - Complete Study Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,8 +152,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ec4d8b523d00e43",
+  "active": "1a36430ad84208d5",
   "lastOpenFiles": [
+    "Distributed Systems/Distributed Systems & HDFS - Complete Study Notes.md",
+    "Distributed Systems/Introduction to Distributed File Systems.md",
+    "Distributed Systems/Performance vs Reliability Tradeoffs.md",
+    "Distributed Systems/Key Concepts Summary.md",
+    "Distributed Systems/Data Chunking and Distribution.md",
+    "Distributed Systems/HDFS Architecture.md",
+    "Distributed Systems/Heartbeat and Failure Detection.md",
+    "Distributed Systems/Metadata Management.md",
+    "Distributed Systems/Fault Tolerance and Replication.md",
+    "Distributed Systems",
     "Algorithms/Topics/Kadane's Algorithm.md",
     "Azure/Basics.md",
     "Algorithms/Topics/Binary Search.md"
