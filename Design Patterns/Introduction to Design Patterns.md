@@ -33,7 +33,7 @@ most of the patterns sound, look and act the same, you have to understand each p
 | -------------------- | ------------------- | --------------------------- |
 | [[Abstract Factory]] | [[Adapter pattern]]         | [[Chain of Responsibility]] |
 | [[Builder]]          | [[Bridge]]          | [[Command]]                 |
-| [[Factory Method]]   | [[Composite]]       | [[Interpreter]]             |
+| [[Factory Method]]   | [[Composite Pattern]]       | [[Interpreter]]             |
 | [[Prototype]]        | [[Decorator]]       | [[Iterator]]                |
 | [[Singleton]]        | [[Facade pattern]]          | [[Mediator]]                |
 |                      | [[Flyweight]]       | [[Memento]]                 |

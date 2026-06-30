@@ -242,11 +242,8 @@ Read-heavy workloads.
 Examples:
 
 - Configuration stores
-    
 - In-memory databases
-    
 - Caches
-    
 
 ---
 
@@ -353,11 +350,8 @@ proceed()
 ## Use Cases
 
 - Producer-consumer systems
-    
 - Task queues
-    
 - Job schedulers
-    
 
 ---
 
@@ -398,13 +392,9 @@ Kernel involvement happens only when blocking becomes necessary.
 ## Used By
 
 - pthread mutexes
-    
 - Rust synchronization primitives
-    
 - Java synchronization
-    
 - Go runtime
-    
 
 ---
 
@@ -452,11 +442,8 @@ Release all 4
 ## Use Cases
 
 - Scientific computing
-    
 - Parallel algorithms
-    
 - Simulation systems
-    
 
 ---
 
@@ -467,11 +454,8 @@ Release all 4
 A monitor combines:
 
 - Shared data
-    
 - Mutex
-    
 - Condition variables
-    
 
 into a single abstraction.
 
@@ -494,11 +478,8 @@ flowchart TD
 ## Languages Using Monitors
 
 - Java
-    
 - C#
-    
 - Kotlin
-    
 
 ---
 
@@ -568,19 +549,11 @@ flowchart TD
 # Key Takeaways
 
 1. Synchronization primitives coordinate execution rather than transfer data.
-    
-2. Mutexes are the most common locking primitive.
-    
+2. Mutexes are the most common locking primitive.    
 3. Spinlocks trade CPU usage for lower latency.
-    
 4. RWLocks improve performance in read-heavy workloads.
-    
 5. Semaphores control access to limited resources.
-    
 6. Condition variables implement wait/notify patterns.
-    
 7. Futexes are the foundation of many modern locking implementations on Linux.
-    
 8. Barriers synchronize phases of parallel execution.
-    
 9. Monitors combine data protection and coordination into a single abstraction.

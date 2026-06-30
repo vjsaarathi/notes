@@ -8,41 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5b58aa0857496b7",
+            "id": "0319e4434b5e9e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Concepts/Basic Concepts to Understand before building any design.md",
+                "file": "CompSci/Bit Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Concepts to Understand before building any design"
+              "title": "Bit Manipulation"
             }
           },
           {
-            "id": "163133e399a8ed9f",
+            "id": "6ce5eab44b810ab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPC/Synchronization Mechanisms.md",
+                "file": "CompSci/Bit Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synchronization Mechanisms"
+              "title": "Bit Manipulation"
             }
           },
           {
-            "id": "97c69d37659fa1c2",
+            "id": "3ee75d58e3cab9f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CompSci/snippets/Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
             }
           }
         ],
@@ -182,17 +186,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,40 +209,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "163133e399a8ed9f",
+  "active": "6ce5eab44b810ab4",
   "lastOpenFiles": [
-    "IPC/IPC Mechanisms.md",
-    "System Design/Concepts/client-server architecture.md",
-    "IPC/Synchronization Mechanisms.md",
-    "IPC",
-    "System Design/Concepts/Basic Concepts to Understand before building any design.md",
-    "System Design/Contents.md",
-    "System Design/Concepts",
-    "Untitled.base",
-    "Distributed Systems/Clickhouse Case Study/01-Clickhouse Fundamentals.md",
-    "Design Patterns/Structural/Facade pattern.md",
-    "System Design/Mobile/Mobile System Design.md",
+    "CompSci/Binary Numbers.md",
+    "CompSci/Bit Manipulation.md",
+    "CompSci/Practice Problems.md",
+    "CompSci/snippets/Java.md",
+    "CompSci/Bitwise operations.md",
+    "CompSci/BitWise Operators.md",
+    "CompSci/Mental Math.md",
+    "CompSci/Interview Patterns.md",
+    "CompSci/Common Bit Tricks.md",
     "Design Patterns/Structural/Adapter pattern.md",
-    "Adapter Pattern.md",
+    "01 - Binary Numbers.md",
+    "Data Structures/Graphs/Traversal.md",
+    "CompSci/index.md~",
+    "CompSci/Binary Numbers.md~",
+    "CompSci/Common Bit Tricks.md~",
+    "CompSci/Practice Problems.md~",
+    "CompSci/Mental Math.md~",
+    "CompSci/snippets/Java.md~",
+    "CompSci/snippets",
+    "CompSci/Interview Patterns.md~",
+    "CompSci/BitWise Operators.md~",
+    "Data Structures/Graphs/Graph Representations.md",
     "Design Patterns/Introduction to Design Patterns.md",
-    "Design Patterns/Structural",
-    "Design Patterns/Behavoiral Patterns/Acyclic Visitor.md",
-    "Behavioural/Behavioural Interview Notes.md",
-    "Design Patterns/Behavoiral Patterns",
-    "Design Patterns",
-    "Azure/Compute and Serverless and Storage.md",
-    "Azure/Hybrid Cloud.md",
-    "Untitled.md",
-    "Azure/Cloud Deployment Model.md",
-    "Azure/Public Cloud.md",
-    "Azure/Private Cloud.md",
-    "Azure/Basics.md",
-    "Algorithms/Topics/Binary Search.md",
-    "System Design/Characteristics/Availability.md",
-    "Android/Activity Architecture.md",
-    "Algorithms/Contents.md",
-    "Algorithms/Topics/Topological Sort.md",
-    "Algorithms/Topics/Rotate an Array.md",
-    "Azure"
+    "Data Structures/Graphs/Adjacency List.md",
+    "Machine Learning/ML Preprocessing MOC.md",
+    "Machine Learning/What is ML Preprocessing.md",
+    "Machine Learning/Outliers.md",
+    "Machine Learning/Missing Values.md",
+    "Machine Learning/Raw Data.md",
+    "Machine Learning/Data Leakage.md",
+    "Design Patterns/Structural/Composite Pattern.md",
+    "Machine Learning/Train Validation Test Split.md",
+    "Machine Learning/Scaling Numeric Features.md",
+    "Machine Learning/Preprocessing Pipeline - Correct Order.md",
+    "Machine Learning/Inconsistent Labels.md",
+    "Machine Learning/Untitled"
   ]
 }
